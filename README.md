@@ -6,7 +6,7 @@ ________________________________________________________________________________
 My name is Tanzeela and I'm a Software Engineering student from Pakistan. I'm a good human! Here's some info about me:
 
 ### Languages
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Python](https://img.shields.io/badge/-Python3-000?&logo=Python3)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C-Hashtag](https://img.shields.io/badge/-CSharp-000?&logo=CSharp)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
