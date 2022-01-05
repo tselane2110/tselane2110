@@ -4,7 +4,11 @@
 _________________________________________________________________________________________________________________________________________________________________________________
 
 ### WHO AM I ❓❓
-My name is Tanzeela and I'm almost a Software Engineer. My favorite Programming language is Python 👽. My main interests are in AI/ML/DataScience and now in Web-Development too. I'm a good human!
+My name is Tanzeela and I'm a Software Engineering student from Pakistan. I'm a good human! Here's some info about me:
+
+🌱 Interests:
+- Web development.
+- DataScience.
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
@@ -19,7 +23,6 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
-- 🎓 I'm a final year student (Software Engineering).
 - 🔭 I’m currently working on WebApps🕸️🌐 and DataScience 💡.
 - 🌱 I’m currently learning ![Django](https://img.shields.io/badge/-Django-000?&logo=Django). 
 - 💬 Ask me about anyhting (JK).
@@ -28,10 +31,6 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________________________________________________________________________________________
 
 ### Contact me
-[![Gmail](https://img.shields.io/badge/-Gmail-000?logo=gmail)](mailto:muc.555@gmail.com)
-[![Discord](https://img.shields.io/badge/-Discord-000?logo=discord)](https://discordapp.com/users/784062984439726150/)
-[![Twitter](https://img.shields.io/badge/-Twitter-000?logo=twitter)](https://twitter.com/ElaneItIs)
+
+💬 Reach me by email or LinkedIn! muc.555@gmail.com | 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?logo=linkedin)](https://www.linkedin.com/in/tanzeela-s-083950208/)
-
-
-
