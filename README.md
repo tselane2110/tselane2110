@@ -1,14 +1,20 @@
 ### Yo, you got me!
 ### WELCOME TO MY GITHUB PROFILE!🎆
 
+_________________________________________________________________________________________________________________________________________________________________________________
+
 ### WHO AM I ❓❓
 My name is Tanzeela and I'm almost a Software Engineer. My favorite Programming language is Python 👽. My main interests are in AI/ML/DataScience and now Web-Development too. I'm a good human!
+
+_________________________________________________________________________________________________________________________________________________________________________________
 
 ### Contact me
 [![Gmail](https://img.shields.io/badge/-Gmail-000?logo=gmail)](mailto:muc.555@gmail.com)
 [![Discord](https://img.shields.io/badge/-Discord-000?logo=discord)](https://discordapp.com/users/784062984439726150/)
 [![Twitter](https://img.shields.io/badge/-Twitter-000?logo=twitter)](https://twitter.com/ElaneItIs)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?logo=linkedin)](https://www.linkedin.com/in/tanzeela-s-083950208/)
+
+_________________________________________________________________________________________________________________________________________________________________________________
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
@@ -19,6 +25,7 @@ My name is Tanzeela and I'm almost a Software Engineer. My favorite Programming 
 ![HTML](https://img.shields.io/badge/-HTML-000?logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS3-000?logo=CSS3)
 
+_________________________________________________________________________________________________________________________________________________________________________________
 
 - 🎓 I'm a final year student (Software Engineering).
 - 🔭 I’m currently working on WebApps🕸️🌐 and DataScience 💡.
