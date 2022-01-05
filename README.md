@@ -2,7 +2,7 @@
 ### WELCOME TO MY GITHUB PROFILE!🎆
 
 ### WHO AM I ❓❓
-My name is Tanzeela and I'm almost a Software Engineer (and I'm a human 👧). My favorite Programming language is Python 👽.
+My name is Tanzeela and I'm almost a Software Engineer. My favorite Programming language is Python 👽. My main interets are in AI/ML/DataScience and now Web-Development too. I'm a good human!
 
 ### Contact me
 [![Gmail](https://img.shields.io/badge/-Gmail-000?logo=gmail)](mailto:muc.555@gmail.com)
