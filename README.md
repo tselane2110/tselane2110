@@ -6,12 +6,6 @@ ________________________________________________________________________________
 ### WHO AM I ❓❓
 My name is Tanzeela and I'm a Software Engineering student from Pakistan. I'm a good human! Here's some info about me:
 
-🌱 Interests:
-- Web development.
-- DataScience.
-
-_________________________________________________________________________________________________________________________________________________________________________________
-
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
@@ -20,7 +14,11 @@ ________________________________________________________________________________
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![HTML](https://img.shields.io/badge/-HTML-000?logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS3-000?logo=CSS3)
+_________________________________________________________________________________________________________________________________________________________________________________
 
+🌱 Interests:
+- Web development.
+- DataScience.
 _________________________________________________________________________________________________________________________________________________________________________________
 
 - 🔭 I’m currently working on WebApps🕸️🌐 and DataScience 💡.
