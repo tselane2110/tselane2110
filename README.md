@@ -30,6 +30,6 @@ ________________________________________________________________________________
 - 🎓 I'm a final year student (Software Engineering).
 - 🔭 I’m currently working on WebApps🕸️🌐 and DataScience 💡.
 - 🌱 I’m currently learning ![Django](https://img.shields.io/badge/-Django-000?&logo=Django). 
-- 💬 Ask me about anyhting (JK - yea you can xD).
+- 💬 Ask me about anyhting (JK).
 - ⚡ Fun fact: It’s all 0’s and 1’s 💻1️⃣0️⃣1️⃣0️⃣1️⃣
 
