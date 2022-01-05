@@ -30,4 +30,4 @@ ________________________________________________________________________________
 ### Contact me
 
 💬 Reach me by email or LinkedIn! muc.555@gmail.com | 
-[!LinkedIn](https://www.linkedin.com/in/tanzeela-s-083950208/)
+[LinkedIn](https://www.linkedin.com/in/tanzeela-s-083950208/)
