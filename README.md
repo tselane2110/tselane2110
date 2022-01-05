@@ -4,7 +4,7 @@
 _________________________________________________________________________________________________________________________________________________________________________________
 
 ### WHO AM I ❓❓
-My name is Tanzeela and I'm almost a Software Engineer. My favorite Programming language is Python 👽. My main interests are in AI/ML/DataScience and now Web-Development too. I'm a good human!
+My name is Tanzeela and I'm almost a Software Engineer. My favorite Programming language is Python 👽. My main interests are in AI/ML/DataScience and now in Web-Development too. I'm a good human!
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
