@@ -8,14 +8,6 @@ My name is Tanzeela and I'm almost a Software Engineer. My favorite Programming 
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
-### Contact me
-[![Gmail](https://img.shields.io/badge/-Gmail-000?logo=gmail)](mailto:muc.555@gmail.com)
-[![Discord](https://img.shields.io/badge/-Discord-000?logo=discord)](https://discordapp.com/users/784062984439726150/)
-[![Twitter](https://img.shields.io/badge/-Twitter-000?logo=twitter)](https://twitter.com/ElaneItIs)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?logo=linkedin)](https://www.linkedin.com/in/tanzeela-s-083950208/)
-
-_________________________________________________________________________________________________________________________________________________________________________________
-
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
@@ -32,4 +24,14 @@ ________________________________________________________________________________
 - 🌱 I’m currently learning ![Django](https://img.shields.io/badge/-Django-000?&logo=Django). 
 - 💬 Ask me about anyhting (JK).
 - ⚡ Fun fact: It’s all 0’s and 1’s 💻1️⃣0️⃣1️⃣0️⃣1️⃣
+
+_________________________________________________________________________________________________________________________________________________________________________________
+
+### Contact me
+[![Gmail](https://img.shields.io/badge/-Gmail-000?logo=gmail)](mailto:muc.555@gmail.com)
+[![Discord](https://img.shields.io/badge/-Discord-000?logo=discord)](https://discordapp.com/users/784062984439726150/)
+[![Twitter](https://img.shields.io/badge/-Twitter-000?logo=twitter)](https://twitter.com/ElaneItIs)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?logo=linkedin)](https://www.linkedin.com/in/tanzeela-s-083950208/)
+
+
 
