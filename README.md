@@ -3,7 +3,6 @@
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
-### WHO AM I ❓❓
 My name is Tanzeela and I'm a Software Engineering student from Pakistan. I'm a good human! Here's some info about me:
 
 ### Languages
@@ -21,7 +20,8 @@ ________________________________________________________________________________
 - DataScience.
 _________________________________________________________________________________________________________________________________________________________________________________
 
-- 🌱 I’m currently learning Django. 
+- 🌱 I’m currently learning Django.
+- 🤔 I’m looking for summer internship opportunities! 
 - 💬 Ask me about anyhting (JK).
 - ⚡ Fun fact: It’s all 0’s and 1’s 💻1️⃣0️⃣1️⃣0️⃣1️⃣
 
