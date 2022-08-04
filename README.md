@@ -6,12 +6,6 @@ ________________________________________________________________________________
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![C-Hashtag](https://img.shields.io/badge/-CSharp-000?&logo=CSharp)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![HTML](https://img.shields.io/badge/-HTML-000?logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS3-000?logo=CSS3)
 _________________________________________________________________________________________________________________________________________________________________________________
 
 ### Interests:
