@@ -10,8 +10,9 @@ ________________________________________________________________________________
 ### Interests:
 - Artificial Intelligence
 - DataScience.
+- Software Development.
 _________________________________________________________________________________________________________________________________________________________________________________
 
-- 🌱 Currently working on an object detection model.
+- 🌱 Currently learning front-end webdev.
 - 💬 Ask me about anyhting (JK).
 - ⚡ Fun fact: It’s all 0’s and 1’s 💻1️⃣0️⃣1️⃣0️⃣1️⃣
