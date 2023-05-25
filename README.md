@@ -4,7 +4,7 @@ ________________________________________________________________________________
 
 
 ### Languages
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+Python
 R
 Html
 CSS
