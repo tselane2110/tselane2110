@@ -25,6 +25,6 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
-💬 Reach me by email or LinkedIn! muc.555@gmail.com | [LinkedIn](www.linkedin.com/in/tanzeela-sehar)
+💬 Reach me by email or LinkedIn! muc.555@gmail.com | www.linkedin.com/in/tanzeela-sehar
 
-📫 Visit my website : [Portfolio](https://tselane2110.github.io/TanzeelaSehar/)
+📫 Visit my website : https://tselane2110.github.io/TanzeelaSehar/
