@@ -21,6 +21,7 @@ JS
 - DataScience
 - Artificial Intelligence
 - Software Development.
+- Started to write on : https://medium.com/@tselane2110
 ***
 
 - 🌱 Currently learning front-end webdev.
