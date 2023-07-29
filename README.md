@@ -24,7 +24,7 @@ JS
 - Started to write on : https://medium.com/@elane2110
 ***
 
-- 🌱 Currently learning front-end webdev.
+- 🌱 Currently learning backend stack (Django, PostgresSQL, reactJs, REST APIs)
 - 💬 Ask me about anyhting (JK).
 - ⚡ Fun fact: It’s all 0’s and 1’s 💻1️⃣0️⃣1️⃣0️⃣1️⃣
 
