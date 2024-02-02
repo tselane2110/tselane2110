@@ -16,6 +16,11 @@ CSS
 JS
 
 ***
+### Framworks
+ReactJs
+Django
+
+***
 
 ### Interests:
 - DataScience
@@ -24,9 +29,9 @@ JS
 - Started to write on : https://medium.com/@elane2110
 ***
 
-- 🌱 Currently learning backend stack (Django, PostgresSQL, reactJs, REST APIs)
+- 🌱 Currently completing Meta's Backemnd Developer Specialization
 - 💬 Ask me about anyhting (JK).
 - ⚡ Fun fact: It’s all 0’s and 1’s 💻1️⃣0️⃣1️⃣0️⃣1️⃣
 
 ***
-💬 Reach me by email : tselane2110@gmail.com 
+💬 Reach me by email : muc.555@gmail.com
