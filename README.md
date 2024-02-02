@@ -8,9 +8,11 @@ I am a Software Engineer who is currently working on some personal projects and 
 
 
 ### Languages
-C/C#
+
 Python
 R
+C/C#
+Java
 Html
 CSS
 JS
