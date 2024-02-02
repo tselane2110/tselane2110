@@ -10,12 +10,13 @@ I am a Software Engineer who is currently working on some personal projects and 
 ### Languages
 
 Python
-R
 C/C#
 Java
+Javascript
+R
 Html
 CSS
-JS
+
 
 ***
 ### Frameworks
