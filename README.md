@@ -16,7 +16,7 @@ CSS
 JS
 
 ***
-### Framworks
+### Frameworks
 ReactJs
 Django
 
