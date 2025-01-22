@@ -32,7 +32,7 @@ Django
 - Started to write on : https://medium.com/@elane2110
 ***
 
-- 🌱 Currently completing Meta's Backend Developer Specialization
+- 🌱 Currently deciding some ML based projects to work on (to further improve my profile)
 - 💬 Ask me about anyhting (JK).
 - ⚡ Fun fact: It’s all 0’s and 1’s 💻1️⃣0️⃣1️⃣0️⃣1️⃣
 
