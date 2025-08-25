@@ -28,9 +28,7 @@ Tensorflow (learning)
 ***
 
 ### Interests:
-- DataScience
-- Artificial Intelligence
-- Software Development.
+- AI for Healthcare
 - Started to write on : https://medium.com/@elane2110
 ***
 
