@@ -2,7 +2,7 @@
 
 <br>
 
-I am a Software Engineer who is currently working on some personal projects and aiming to get some cool [first] internship ASAP!
+Im currently doing my MS(AI)
 
 ***
 
@@ -22,6 +22,8 @@ CSS
 ### Frameworks
 ReactJs
 Django
+Pytorch (learning)
+Tensorflow (learning)
 
 ***
 
