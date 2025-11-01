@@ -2,7 +2,7 @@
 
 <br>
 
-Im currently doing my MS(AI)
+MS(AI) student [2025-2027]
 
 ***
 
@@ -23,17 +23,16 @@ CSS
 ReactJs
 Django
 Pytorch (learning)
-Tensorflow (learning)
 
 ***
 
 ### Interests:
 - AI for Healthcare
-- Started to write on : https://medium.com/@elane2110
+- Computer Vision
+  
 ***
 
-- 🌱 Currently deciding some ML based projects to work on (to further improve my profile)
-- 💬 Ask me about anyhting (JK).
+- 🌱 Working on research-based projects and implementing papers.
 - ⚡ Fun fact: It’s all 0’s and 1’s 💻1️⃣0️⃣1️⃣0️⃣1️⃣
 
 ***
