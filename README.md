@@ -2,6 +2,8 @@
 
 <br>
 
+AI/ML Research Engineer at [Syslab.ai](https://syslab.ai/)
+<br>
 MS(AI) student [2025-2027]
 
 ***
@@ -32,8 +34,9 @@ Pytorch (learning)
   
 ***
 
-- 🌱 Working on research-based projects and implementing papers.
+- 🌱 Working on research-based AI projects and implementing papers.
 - ⚡ Fun fact: It’s all 0’s and 1’s 💻1️⃣0️⃣1️⃣0️⃣1️⃣
+- 🫢 Once wrote something funny [here](https://elane2110.medium.com/first-time-in-software-engineering-9956c3cdfdff)
 
 ***
 💬 Reach me by email : muc.555@gmail.com
