@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-AI/ML Research Engineer at [Syslab.ai](https://syslab.ai/)
+Research Assistant at [Syslab.ai](https://syslab.ai/)
 <br>
 MS(AI) student [2025-2027]
 
